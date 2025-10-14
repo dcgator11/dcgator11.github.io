@@ -1,0 +1,40 @@
+ body {background-color:rgb(56, 56, 58);
+    color:lightblue;
+    font-family: monospace; }
+
+    #wIn {
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color:navy;
+    }
+
+    #Pr1 {
+        font-family: monospace;
+        color:crimson;
+        background-color: cornflowerblue;
+    }
+    #WotS {
+        font-family: 'Times New Roman', Times, serif;
+        background-color: darkgoldenrod;
+        color:darkturquoise;
+    }
+    #ACG {
+      background-color:darkturquoise;
+      color:black;
+    }
+    #StuffPFP {
+      background-color:navy;
+      color:lightblue;
+    }
+      #TrC {
+        background-color:jade;
+        color:green;
+      }
+    #TIW {
+      background-color:crimson;
+      color:lightblue;
+    }
+    #IWI {
+background-color:red;
+      color:lightblue;
+    }
+    
