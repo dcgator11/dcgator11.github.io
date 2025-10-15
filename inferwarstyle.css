@@ -1,1 +1,15 @@
-
+ body{
+        background-color:LightGray;
+      }
+      p{
+        font-size:12px;
+      }
+      #TIW{
+        background-color:crimson;
+        color:LavenderBlush;
+      }
+      #Ter{
+        background-color:LightGreen;
+      }
+      #Imm{
+        background-color:LightSteelBlue;
