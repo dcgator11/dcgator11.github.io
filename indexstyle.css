@@ -6,35 +6,42 @@
         font-family: Georgia, 'Times New Roman', Times, serif;
         color:cadetblue;
     }
-
-    #Pr1 {
-        font-family: monospace;
-        color:crimson;
-        background-color: cornflowerblue;
-    }
     #WotS {
         font-family: 'Times New Roman', Times, serif;
         background-color: darkgoldenrod;
         color:darkturquoise;
     }
-    #ACG {
-      background-color:darkturquoise;
-      color:black;
-    }
     #StuffPFP {
-      background-color:navy;
+      background-color:midnightblue;
       color:lightblue;
     }
       #TrC {
         background-color:jade;
         color:green;
-      }
-    #TIW {
-      background-color:crimson;
-      color:lightblue;
     }
-    #IWI {
-background-color:red;
-      color:lightblue;
-    }
-    
+#TrCa:link{
+ text-decoration:underline double;
+ color:lightgreen;
+ background-color:teal;
+}
+#TrCa:visited{
+color:orchid;
+ background-color:lightskyblue;
+ border:double;
+}
+#TrCa:hover{
+text-size:20px;
+ text-decoration:underline double;
+ color:lightcyan;
+  background-color:midnightblue;
+}
+#TrCa:active{
+text-decoration:overline;
+ color:teal;
+ background-color:lightgreen;
+}
+#upDiv{
+display:flex;
+ justify-content:spacebetween;
+ align-items:center;
+}
