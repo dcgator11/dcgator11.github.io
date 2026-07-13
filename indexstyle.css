@@ -37,8 +37,3 @@ text-decoration:overline;
  color:teal;
  background-color:lightgreen;
 }
-#upDiv{
-display:flex;
- justify-content:spacebetween;
- align-items:center;
-}
