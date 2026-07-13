@@ -1,15 +1,11 @@
- body {background-color:rgb(56, 56, 58);
+ body {
+    background-color:rgb(56, 56, 58);
     color:lightblue;
     font-family: monospace; }
 
     #wIn {
         font-family: Georgia, 'Times New Roman', Times, serif;
         color:cadetblue;
-    }
-    #WotS {
-        font-family: 'Times New Roman', Times, serif;
-        background-color: darkgoldenrod;
-        color:darkturquoise;
     }
     #StuffPFP {
       background-color:midnightblue;
@@ -25,8 +21,9 @@
  background-color:teal;
 }
 #TrCa:visited{
-color:orchid;
+ color:orchid;
  background-color:lightskyblue;
+ text-decoration:underline double;
  border:double;
 }
 #TrCa:hover{
